@@ -78,7 +78,7 @@ sudo apt update && sudo apt upgrade -y
 2. **Install necessary packages:**
 
 ```sh
-sudo apt install python3 python3-venv python3-pip -y
+sudo apt install python3 python3-venv python3-pip ffmpeg -y
 ```
 
 3. **Clone the repository and navigate to the directory:**
@@ -121,4 +121,3 @@ screen -r tiktok-bot
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
